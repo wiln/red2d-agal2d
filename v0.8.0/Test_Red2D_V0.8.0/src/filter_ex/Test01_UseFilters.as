@@ -21,9 +21,9 @@ package filter_ex
 	import red2D.filter.fragmentBasic.MonoFilter;
 	import red2D.filter.fragmentBasic.NeonSign;
 	import red2D.filter.fragmentBasic.NightVisionFilter;
-	import red2D.filter.fragmentBasic.UV_Wave;
 	import red2D.filter.fragmentUV.UV_OffsetFilter;
 	import red2D.filter.fragmentUV.UV_TileFilter;
+	import red2D.filter.fragmentUV.UV_Wave;
 	import red2D.filter.fragmentUV.UV_ZoomFilter;
 	import red2D.material.BitmapMaterial;
 	import red2D.system.Red_Scene;

@@ -84,7 +84,7 @@ package
 			//////////////// 필터예제입니다. //////////////////////
 			
 			// fix 2011.10.23 by redcamel 
-			// red2d.setScene(new Test01_UseFilters);
+			 red2d.setScene(new Test01_UseFilters);
 			
 			// fix 2011.11.04 by redcamel 
 			//red2d.setScene(new Test02_MultiFilter);
@@ -111,7 +111,7 @@ package
 			
 			 // Game Test ex!!
 			 // 간단한수준의 게임데모입니다.
-			red2d.setScene(new Test_Game);	
+			//red2d.setScene(new Test_Game);	
 		}
 	}
 }
