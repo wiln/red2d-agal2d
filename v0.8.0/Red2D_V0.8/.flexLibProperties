@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="red2D.filter.fragmentBasic.BlackAndWhite"/>
+    <classEntry path="red2D.filter.fragmentUV.UV_Wave"/>
+    <classEntry path="red2D.display.Red_ImageScroller_Direction"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
