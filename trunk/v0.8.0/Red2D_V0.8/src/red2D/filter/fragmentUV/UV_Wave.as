@@ -46,7 +46,7 @@ package red2D.filter.fragmentUV
 				"mov ft1.x, ft7.x\n"+
 
 				// uv 결과값 저장  최종필터 합산을 위하여 uv계산이 종료된후 반드시 ft7로 저장합니다.
-				"mov ft7, ft2\n"+	
+				"mov ft7, ft1\n"+	
 				
 				"tex ft3, ft1, fs0 <2d,clamp,linear>\n"+
 				
